@@ -1,10 +1,10 @@
 body {
-    background-color: #d2e6cd;
+    background-color: #497f76;
     text-align: center;
 }
 
 .container {
-    background-color: #497f76;
+    background-color: ##d2e6cd;
     border-radius: 25px;
 }
 .header {
@@ -22,7 +22,7 @@ button {
     margin: 10px;
 }
 .secondary {
-    background-color: #497f76;
+    background-color: #d2e6cd;
     color: #26323b;
 }
 
